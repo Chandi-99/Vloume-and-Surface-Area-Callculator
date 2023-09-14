@@ -1,0 +1,39 @@
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\bin\Debug\Volume and Surface Area Calculator.exe.config
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\bin\Debug\Volume and Surface Area Calculator.exe
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\bin\Debug\Volume and Surface Area Calculator.pdb
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume and Surface Area Calculator.csprojAssemblyReference.cache
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form1.resources
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Properties.Resources.resources
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume and Surface Area Calculator.csproj.GenerateResource.cache
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume and Surface Area Calculator.csproj.CoreCompileInputs.cache
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume and Surface Area Calculator.exe
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume and Surface Area Calculator.pdb
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form2.resources
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form3.resources
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form4.resources
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form5.resources
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form6.resources
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form7.resources
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form8.resources
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form9.resources
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form10.resources
+D:\BIT\1st year\1st semester\visual application programing\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form11.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\bin\Debug\Volume and Surface Area Calculator.exe.config
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\bin\Debug\Volume and Surface Area Calculator.exe
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\bin\Debug\Volume and Surface Area Calculator.pdb
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume and Surface Area Calculator.csprojAssemblyReference.cache
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form1.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form10.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form11.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form2.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form3.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form4.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form5.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form6.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form7.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form8.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Form9.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume_and_Surface_Area_Calculator.Properties.Resources.resources
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume and Surface Area Calculator.csproj.GenerateResource.cache
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume and Surface Area Calculator.exe
+D:\BIT\1st year\1st semester\visual application programing\Assignments\Volume and Surface Area Calculator\Volume and Surface Area Calculator\obj\Debug\Volume and Surface Area Calculator.pdb
